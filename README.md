@@ -14,4 +14,4 @@ The simple block diagram of a function is:
 
 ![img of the function block di](img/img.png)
 
-Here, the $dt$ or the sampling time should be the same as the sampling time of the MATLAB DrivingScenarion. To chekc the MATLAB Driving Scenario Designer sampling time go to the setting of the Designer app and adjust it. The app only provide the sampling time in the miliseconds. 
+Here, the $dt$ or the sampling time should be the same as the sampling time of the MATLAB DrivingScenarion. To check the MATLAB Driving Scenario Designer sampling time go to the setting of the Designer app and adjust it. This app only provide the sampling time in the miliseconds. 
