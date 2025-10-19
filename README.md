@@ -1,6 +1,6 @@
 # Interpolation function for global coordinates and the yaw angle from the MATLAB Driving Scenario
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=M-MSHAIKH/Interpolation-function-for-global-coordinates-and-the-yaw-angle-from-the-MATLAB-Driving-Scenario)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=M-MSHAIKH/Waypoints_Inter)
 
 The provided function (WaypointsInter.m) can generate the related uniform time vector, the uniform global position and yaw angle from the provided non-uniform x,y position and the yaw angle from the [MATLAB Driving Scenario Designer](https://de.mathworks.com/help/driving/ref/drivingscenariodesigner-app.html?searchHighlight=driving+scenario&s_tid=srchtitle_support_results_1_driving+scenario) app. The function is useful for trjectory and stability control design of a vehicle where can only non-uniform data is important.
 
